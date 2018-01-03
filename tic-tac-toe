@@ -1,3 +1,5 @@
+//This is tic-tac-toe game implemented by C language.
+
 #include<stdio.h>
 
 void display(char b[][3])
