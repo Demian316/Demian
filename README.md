@@ -1,5 +1,5 @@
 
-Tic-tac-toe game in C
+# Tic-tac-toe game in C
 
 
 
